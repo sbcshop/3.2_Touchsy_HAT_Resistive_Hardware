@@ -8,7 +8,7 @@ In this github repo you will find hardware files for 3.2" Touchsy HAT Resistive.
 
 * [**/Design Data**](https://github.com/sbcshop/3.2_Touchsy_HAT_Resistive_Hardware/tree/main/Design%20Data) - This directory contains Schematic, Top and Bottom view
 * [**/Mecahnical Data**](https://github.com/sbcshop/3.2_Touchsy_HAT_Resistive_Hardware/tree/main/Mechanical%20Data) - This directory contains Dimension files, 3D and STEP files
-* [3.2" Touchsy HAT Resistive Software]() - This repo contains 3.2" Touchsy HAT Resistive Hardware Getting Started Guide and Sample Codes.
+* [3.2" Touchsy HAT Resistive Software](https://github.com/sbcshop/3.2_Touchsy_HAT_Resistive_Software) - This repo contains 3.2" Touchsy HAT Resistive Hardware Getting Started Guide and Sample Codes.
 
 ## Related Products
    * [3.2" Touchsy ESP32](https://shop.sb-components.co.uk/products/touchsy-3-2-lcd-display-for-all-sbcs-mcus?variant=40536352096339) - 3.2" Touchsy ESP32 with Resistive and Capacitive version. 
