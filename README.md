@@ -1,5 +1,5 @@
 # 3.2_Touchsy_HAT_Resistive_Hardware
-Touchsy HAT - the perfect solution for users who want to mount the display on their single-board computers. Here are the features and specifications that make Touchsy HAT a unique and must-have accessory for Raspberry Pi 4, 3, and other compatible single-board computers. 
+Touchsy HAT - the perfect solution for users who want to mount the display on their single-board computers. Touchsy HAT a unique and must-have accessory for Raspberry Pi 4, 3, and other compatible single-board computers. 
 
 In this github repo you will find hardware files for 3.2" Touchsy HAT Resistive.
 
