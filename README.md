@@ -1,8 +1,10 @@
 # 3.2_Touchsy_HAT_Resistive_Hardware
-Standard 3.2" LCD touch panels with capacitive and resistive touch choices are available. Also, this has several Hardware Compatibility choices to accommodate the whole Hardware Community. 
-<img src = "https://cdn.shopify.com/s/files/1/1217/2104/files/Touchsy.png?v=1676717838"/>
+Touchsy HAT - the perfect solution for users who want to mount the display on their single-board computers. Here are the features and specifications that make Touchsy HAT a unique and must-have accessory for Raspberry Pi 4, 3, and other compatible single-board computers. 
 
 In this github repo you will find hardware files for 3.2" Touchsy HAT Resistive.
+
+Standard 3.2" LCD touch panels with capacitive and resistive touch choices are available. Also, this has several Hardware Compatibility choices to accommodate the whole Hardware Community. 
+<img src = "https://cdn.shopify.com/s/files/1/1217/2104/files/Touchsy.png?v=1676717838"/>
 
 ## Repository Contents
 
