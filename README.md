@@ -4,7 +4,7 @@ Touchsy HAT - the perfect solution for users who want to mount the display on th
 In this github repo you will find hardware files for 3.2" Touchsy HAT Resistive.
 
 Standard 3.2" LCD touch panels with capacitive and resistive touch choices are available. Also, this has several Hardware Compatibility choices to accommodate the whole Hardware Community. 
-<img src = "https://cdn.shopify.com/s/files/1/1217/2104/files/ESPBANNER.jpg?v=1688108068"/>
+<img src = "https://cdn.shopify.com/s/files/1/1217/2104/files/TOUCHSYHAT_BANNER.jpg?v=1688107978"/>
 
 ## Repository Contents
 
